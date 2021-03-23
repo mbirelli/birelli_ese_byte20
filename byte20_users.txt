@@ -1,0 +1,27 @@
+total 104
+drwxr-xr-x  7 fandreani     fandreani     4096 Mar 16 14:45 andreani
+drwxr-xr-x  5 abianchi      abianchi      4096 Mar  9 14:18 bianchi
+drwxr-xr-x  8 mbuccioni     mbuccioni     4096 Mar 16 14:35 buccioni_mattia
+drwxr-xr-x  3 gcampi        gcampi        4096 Mar  2 16:17 campi
+drwxr-xr-x  8 ckaiser       ckaiser       4096 Mar 16 14:46 ckaiser
+drwxr-xr-x  8 ndaltorrione  ndaltorrione  4096 Mar 16 14:48 DalTorrione_Nicola
+drwxr-xr-x  8 dsancebuche   dsancebuche   4096 Mar 16 14:47 daryl_sancebuche
+drwxr-xr-x  7 sdellabona    sdellabona    4096 Mar 16 14:48 dellabona
+drwxr-xr-x  7 pfilippelli   pfilippelli   4096 Mar 16 14:54 filippelli
+drwxr-xr-x  7 mfontani      mfontani      4096 Mar 16 14:51 Fontani_Matteo
+drwxr-xr-x  9 afrati        afrati        4096 Mar 16 14:45 frati_andrea
+drwxr-xr-x  7 mfrizzoni     mfrizzoni     4096 Mar 16 14:14 frizzoni_matteo
+drwxr-xr-x  8 fzucconi      fzucconi      4096 Mar 16 14:49 fzucconi
+drwxr-xr-x  8 lgianvincenzi lgianvincenzi 4096 Mar 16 14:05 gianvincenzi_lorenzo
+drwxr-xr-x  6 agrisolini    agrisolini    4096 Mar 15 08:26 grisolini_alberto
+drwxr-xr-x  8 lbianchini    lbianchini    4096 Mar 16 14:15 lbianchini
+drwxr-xr-x  7 mbirelli      mbirelli      4096 Mar 16 16:09 mbirelli
+drwxr-xr-x  8 gpapi         gpapi         4096 Mar 16 15:04 Papi
+drwxr-xr-x  8 gperondi      gperondi      4096 Mar 16 13:51 perondi_giovanni
+drwxr-xr-x  2 cpieramici    cpieramici    4096 Mar  2 16:23 pieramici
+drwxr-xr-x  7 squercioli    squercioli    4096 Mar 16 14:46 quercioli
+drwxr-xr-x  9 gradini       gradini       4096 Mar 16 15:52 radini_gabriele
+drwxr-xr-x  7 sdiruvo       sdiruvo       4096 Mar 15 08:32 Silvia_Di_Ruvo
+drwxr-xr-x  7 rsomigli      rsomigli      4096 Mar 15 09:51 Somigli_Riccardo
+drwxr-xr-x 10 gveracini     gveracini     4096 Mar 16 14:56 veracini_gianluca
+drwxr-xr-x  4 mvettori      mvettori      4096 Mar  9 15:29 Vettori_Mattia
